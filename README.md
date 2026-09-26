@@ -2,7 +2,7 @@
 
 My name is [**Tristan**](https://tristan-meyer.at), a computer science student based in Austria.
 
-I'm currently in my second year of the HTL Kaindorf in the department of Informatics.
+I'm currently in my third year of the HTL Kaindorf in the department of Informatics.
 
 I'm interested in Science, LLMs and Cybersecurity.
 
@@ -11,3 +11,7 @@ In my free time, I do calisthenics and occasionally read books.
 ### Contact me!
 
 * [**LinkedIn**](https://www.linkedin.com/in/meyer-tristan/)
+
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=java,html,css,js,ts,react,mongodb,linux,git,docker" />
+  </p>
